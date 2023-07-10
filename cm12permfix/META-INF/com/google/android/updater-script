@@ -1,10 +1,9 @@
 ui_print("========================================");
-ui_print(" Device    : Huawei Honor 3C (H30-U10);  ");
-ui_print(" Developer : kernel.killer              ");
-ui_print(" ROM       : cm-12.1-20160221-UNOFFICIAL");
-ui_print("             -h30u10                    ");
-ui_print(" Processor : Mediatek MT6999            ");
-ui_print(" Thanks    : Ajit Guraya, Fire855       ");
+ui_print(" Device    : Caterpillar CAT B15        ");
+ui_print(" Developer : jiganomegsdfdf             ");
+ui_print(" ROM       : cm-12.1-20230710-UNOFFICIAL");
+ui_print("             -tough                     ");
+ui_print(" Processor : Mediatek MT6577            ");
 ui_print("========================================");
 show_progress(0.750000, 0);
 ui_print(" ");
